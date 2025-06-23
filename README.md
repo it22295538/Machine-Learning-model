@@ -1,2 +1,2 @@
 # Machine-Learning-model
-simple machine laening model for classification
+simple machine learning model for classification
